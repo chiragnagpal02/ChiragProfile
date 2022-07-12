@@ -1,0 +1,222 @@
+/* body */
+body {
+    /* background-image: url("../images/calm.jpeg"); */
+    background-color: 2a2a28;
+    opacity: 100%;
+    background-size: 100% 100%;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: white;
+}
+
+hr {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+/* Headings */
+
+body h2 {
+    font-family: 'Caveat', cursive;
+    font-size: xx-large;
+}
+
+/* name and link */
+header {
+    background-color: 151515;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 0;
+}
+
+.links {
+    text-decoration:none;
+}
+
+.links:hover {
+    border: 4;
+    border-radius: 40%;
+    color: yellow;
+}
+
+
+/* image */
+
+.image_me {
+    width: 250;
+    height: 320;
+    margin-bottom: 20px;
+}
+
+
+/* about you */
+.about-you {
+    background-color: 301B3F;
+    text-align: center;
+    list-style: inside;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 0;
+}
+
+.text-about {
+    display: inline-block;
+    width: 60%;
+}
+
+.interests {
+    display: inline-block;
+    text-align: left;
+}
+
+.details {
+    margin-bottom: 20px;
+}
+
+
+/* hobbies */
+
+.hobbies {
+    background-color: 3C415C;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.table-edit {
+    display: inline-block;  
+}
+body h3 {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-top: 0%;
+}
+
+body h2 {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 50px;
+}
+
+.table-edit-surname {
+    display: inline-block;
+}
+
+.video {
+    display: inline-block;
+}
+
+
+
+/* skills */
+
+.skills {
+    background-color: B4A5A5;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.icons img {
+    height: auto;
+    width: 120;
+}
+
+/* education */
+
+.education {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.content-wrap {
+    list-style: inside;
+}
+
+.edu {
+    display: inline-block;
+    margin: 2%;
+    text-align:center;
+}
+
+.edu ul {
+    text-align: left;
+
+}
+
+.edu.edu-1 {
+    background-color: aliceblue;
+    width: 40%;
+    height: 675px;
+    padding: 4;
+    vertical-align: middle;
+    border-radius: 7px;
+    color: black;
+}
+.edu.edu-2 {
+    background-color: aqua;
+    width: 40%;
+    height: 675px;
+    padding: 4;
+    vertical-align: middle;
+    border-radius: 7px;
+    color: black;
+}
+
+.edu img{
+    width: 100%;
+    height: 300px ;
+    margin: auto;
+}
+
+.education p {
+    margin-top: 15px;
+}
+
+/* map */
+
+.map {
+    background-color: 719FB0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.house_map {
+    border-radius: 20px;
+    border: 3;
+}
+
+/* Interest Form */
+
+.interest-form {
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: 1B1B2F;
+}
+.inters {
+    color: white;
+}
+
+/* footer */
+
+footer {
+    background-color: F1EBBB;
+    color: black;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 7px;
+    padding-bottom: 5px;
+}
+
+

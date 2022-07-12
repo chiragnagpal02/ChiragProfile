@@ -1,0 +1,15 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+
+git remote add origin https://chiragnagpal02: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@github.com/chiragnagpal02/finalchiragprofile.git
+
+git push -u origin main
+
+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 - token
+
+//next all time from same folder
+git add .
+git commit -m "first commit"
+git push
